@@ -1,0 +1,29 @@
+git config
+Get and set repository or global options
+
+git init
+Start a new project
+
+git status
+View the state of the working directory and the staging area
+
+git diff
+Track the difference between the changes made on a file
+
+git rm
+Remove file from git repository
+
+git mv
+Move or rename file or directory in git repository
+
+git fetch
+Fetch data from other repositories
+
+git pull
+Fetch data and merge it into local repository
+
+git push
+Export commit to remote branch
+
+git reset
+Undo local changes
