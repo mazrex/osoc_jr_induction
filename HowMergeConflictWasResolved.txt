@@ -1,0 +1,8 @@
+First README.md was modified on new_branch and changes were committed.
+Then, again after checkout to the main branch, README.md was modified
+and the changes were committed. This created a merge conflict. And,
+the branches would not merge until the conflict was resolved.
+
+The merge conflict was resolved using reset --hard command by going 
+back to a state in main branch, where we could merge without getting
+merge conflicts.
